@@ -81,8 +81,7 @@ This project presents an interactive **Power BI dashboard** that analyzes and co
 
 ## 📷 Dashboard Preview
 
-![The DataViz Challenge_Airbnb_PowerBI_dashboard](https://github.com/user-attachments/files/26136139/The.DataViz.Challenge_Airbnb_PowerBI_dashboard.pdf)
-)
+<img width="660" height="548" alt="Dashboard_airbnb_PowerBI" src="https://github.com/user-attachments/assets/5b41761e-0f8f-40d1-95fb-560ee2ba2d1f" />
 
 ---
 
